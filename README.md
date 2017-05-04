@@ -6,8 +6,6 @@ Also check out the group project we had to make: [Apocalypse](https://github.com
 
 <img src="https://s21.postimg.io/decsh9w3r/Screen_Shot_2016_08_31_at_11_03_52_PM.png" />
 
-# Status: Finished
-
 # Features:
 
 - Colorful interface

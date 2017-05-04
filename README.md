@@ -14,4 +14,4 @@ I am still working on making the AI smart.
 - Colorful interface
 - Has a main screen
 - Has controls to start a new game and return to the main menu
-- Build using Python Turtles
+- Build using Python Turtle Graphics

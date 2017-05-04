@@ -1,4 +1,5 @@
 # Tic-Tac-Toe
+---
 
 Tic Tac Toe was a side project based on what I learned in CPSC 231. I hope this gives future student some confidence and insight on making their own project.
 

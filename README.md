@@ -7,6 +7,10 @@ Also check out the group project we had to make: [Apocalypse](https://github.com
 
 <img src="https://github.com/00111000/SCREENSHOTS/blob/master/Tic-Tac-Toe.png?raw=true" />
 
+# To run
+
+`$ python3 TicTacToe.py`
+
 # Features:
 
 - Colorful interface

@@ -5,7 +5,7 @@ Tic Tac Toe was a side project based on what I learned in CPSC 231 (Introduction
 
 Also check out the group project we had to make: [Apocalypse](https://github.com/Step7750/Apocalypse)
 
-<img src="https://github.com/00111000/SCREENSHOTS/blob/master/Tic-Tac-Toe.png?raw=true" />
+![](https://github.com/00111000/Tic-Tac-Toe/blob/master/Tic-Tac-Toe.png)
 
 # To run
 

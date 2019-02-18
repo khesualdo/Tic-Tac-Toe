@@ -9,7 +9,7 @@ Also check out the group project we made: [Apocalypse](https://github.com/Step77
 
 # To run
 
-`$ python3 TicTacToe.py`
+`python3 TicTacToe.py`
 
 # Features:
 

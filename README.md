@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 ---
 
-Tic Tac Toe was a side project based on what I learned in CPSC 231 (Introduction to Computer Science). I hope this gives future student some confidence and insight on making their own projects.
+Tic Tac Toe was a side project based on what I learned in CPSC 231 (Introduction to Computer Science). I hope this gives future students some confidence and insight on making their own projects.
 
 Also check out the group project we had to make: [Apocalypse](https://github.com/Step7750/Apocalypse)
 
